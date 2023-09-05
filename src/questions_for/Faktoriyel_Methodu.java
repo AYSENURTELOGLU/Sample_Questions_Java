@@ -1,11 +1,11 @@
-package questions_1;
+package questions_for;
 
 import java.util.Scanner;
 
-public class FaktoriyelMethodu {
+public class Faktoriyel_Methodu {
     public static void main(String[] args) {
         /*
-        Soru 2:
+        Soru:
         Girdi olarak bir tamsayı kabul eden ve bu tam sayının faktöriyelini hesaplayan bir method yazın. Method bize
         çıktıyı döndürsün. Örnek:
         Girdi: 6

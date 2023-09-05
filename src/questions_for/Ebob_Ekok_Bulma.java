@@ -1,13 +1,13 @@
-package questions_1;
+package questions_for;
 
 import java.util.Scanner;
 
-public class EbobEkokBulma {
+public class Ebob_Ekok_Bulma {
 
     public static void main(String[] args) {
 
         /*
-        Soru 1:
+        Soru:
         Kullanıcıdan 2 tamsayı girmesini isteyin, ardından GCD (En Büyük Ortak Bölen) ve LCM'yi bulun (En Küçük Ortak Kat)
         Giriş :
         30 ve 40
